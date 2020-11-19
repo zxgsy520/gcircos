@@ -1,0 +1,37 @@
+#9370DB	GC skew(G<C)
+#32CD32	GC skew(G>=C)
+#2F4F4F	GC(<50%)
+#CD5555	GC(>=50%)
+#CC00FF	rRNA
+#EF883F	tRNA
+#2FA0F5	Motif Gene
+#FAF319	Motif Inter
+#0DD3EB	PT Gene
+#18F22A	PT Inter
+238,59,59	A:RNA processing and modification
+190,59,219	B:Chromatin structure and dynamics
+69,139,0	C:Energy production and conversion
+255,215,0	D:Cell cycle control, cell division, chromosome partitioning
+139,125,107	E:Amino acid transport and metabolism
+102,205,0	F:Nucleotide transport and metabolism
+0,0,255	G:Carbohydrate transport and metabolism
+138,43,226	H:Coenzyme transport and metabolism
+184,134,11	I:Lipid transport and metabolism
+255,130,171	J:Translation, ribosomal structure and biogenesis
+100,149,237	K:Transcription
+205,16,118	L:Replication, recombination and repair
+83,134,139	M:Cell wall/membrane/envelope biogenesis
+72,209,204	N:Cell motility
+238,0,0	O:Posttranslational modification, protein turnover, chaperones
+238,154,73	P:Inorganic ion transport and metabolism
+139,125,123	Q:Secondary metabolites biosynthesis, transport and catabolism
+154,205,50	R:General function prediction only
+139,102,139	S:Function unknown
+154,192,205	T:Signal transduction mechanisms
+25,25,112	U:Intracellular trafficking, secretion, and vesicular transport
+255,69,0	V:Defense mechanisms
+205,170,125	W:Extracellular structures
+239,136,63	X:Mobilome: prophages, transposons
+53,81,240	Y:Nuclear structure
+37,211,217	Z:Cytoskeleton
+161,25,219	Other
