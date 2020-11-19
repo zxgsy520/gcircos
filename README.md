@@ -1,2 +1,14 @@
 # gcircos
 Draw a genome circle map
+
+### Version: 1.1.2
+
+## Manuals
+<pre><code>
+git clone https://github.com/zxgsy520/gcircos.git
+cd gcircos
+chmod 755 *
+./draw_legend -h
+./draw_legend legend.txt >legend.svg
+./draw_legend --width 1000 legend.txt >legend.svg
+</code></pre>
