@@ -1,8 +1,5 @@
 # gcircos
 Draw a genome circle map
-
-### Version: 1.1.2
-
 ## Manuals
 <pre><code>
 git clone https://github.com/zxgsy520/gcircos.git
